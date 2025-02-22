@@ -4,8 +4,8 @@
     <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <PublishRepositoryUrl>true</PublishRepositoryUrl>
-    <PublishUrl>docs</PublishUrl>
+    <PublishRepositoryUrl>false</PublishRepositoryUrl>
+    <PublishUrl>root</PublishUrl>
   </PropertyGroup>
 
   <ItemGroup>
