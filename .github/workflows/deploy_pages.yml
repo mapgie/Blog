@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  PROJECT_LOCATION: src/mapgie.github.io/
+  PROJECT_LOCATION: ./
   PROJECT_FILE: mapgie.github.io.csproj
   BUILD_LOCATION: build/
   
