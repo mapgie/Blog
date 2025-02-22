@@ -1,9 +1,9 @@
 {
   "mainAssemblyName": "mapgie.github.io",
   "resources": {
-    "hash": "sha256-mg3Y8wgmvnsz11O6KRGIo3ZQt82EcwpcBMnfSOmHDbo=",
+    "hash": "sha256-5hXxZRoM1QLySaKO8cuLiMGHFjHQs2oZQM0u9A/jNYU=",
     "fingerprinting": {
-      "mapgie.github.io.yahm66mgdm.wasm": "mapgie.github.io.wasm",
+      "mapgie.github.io.mu82f95wql.wasm": "mapgie.github.io.wasm",
       "Microsoft.AspNetCore.Components.g2uf8wsg0m.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.5fnpqqr84r.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
       "Microsoft.AspNetCore.Components.WebAssembly.0prlth0hc4.wasm": "Microsoft.AspNetCore.Components.WebAssembly.wasm",
@@ -64,7 +64,7 @@
       "System.Runtime.InteropServices.JavaScript.f4ln4hfftw.wasm": "sha256-r+LQmgoVdHgFKWJvUNAR7HQZAtSw+xvBIQ6siSPsBNM="
     },
     "assembly": {
-      "mapgie.github.io.yahm66mgdm.wasm": "sha256-Gv/9rlmJdntT59IGqdzglu5SxjoXWEi3FEw+rzTSE4Q=",
+      "mapgie.github.io.mu82f95wql.wasm": "sha256-ThzD6Dke2jY/2HkjcU9S/YhZjPpCaNW0rLKL2SqHnI4=",
       "Microsoft.AspNetCore.Components.g2uf8wsg0m.wasm": "sha256-CHLBdZ8lmGjukXC04ARQkEazSu2q0ffGzI959NNh0+4=",
       "Microsoft.AspNetCore.Components.Web.5fnpqqr84r.wasm": "sha256-0fT5DLMa1voamFmX5/f/aY8oct7a5CLEOHu2Tdn6oCA=",
       "Microsoft.AspNetCore.Components.WebAssembly.0prlth0hc4.wasm": "sha256-jB/Gf1i7eXuQqAzqY/ZONe+hrW3x94pYZlL+G0Cv7Co=",
